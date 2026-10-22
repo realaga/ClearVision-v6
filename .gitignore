@@ -120,3 +120,6 @@ dist
 # ClearVision build & test files
 public/
 test/
+
+# graphify (machine-local interpreter path)
+graphify-out/.graphify_python
